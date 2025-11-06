@@ -12,14 +12,14 @@ const config = {
     bulletHeight: 15,
     // --- Invader Config (3x density) ---
     invaderRows: 10,  // Increased from 5
-    invaderCols: 25,  // Increased from 10
+    invaderCols: 35,  // Increased from 10
     invaderWidth: 20, // Smaller to fit
     invaderHeight: 15, // Smaller to fit
     invaderPadding: 10,
-    invaderSpeed: 0.9, // Start a bit slower
+    invaderSpeed: 0.68, // Start a bit slower
     invaderEmoji: '👾',
-    invaderBulletSpeed: 5,
-    invaderShootChance: 0.052, // Chance per frame
+    invaderBulletSpeed: 3,
+    invaderShootChance: 0.082, // Chance per frame
     // --- Barricade Config ---
     barricadeBlockSize: 8,
     barricadeBlocksWide: 7,
